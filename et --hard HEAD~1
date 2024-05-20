@@ -1,0 +1,31 @@
+[33mcommit f3e700022b247243b34af15808a3dae60ef22394[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ericbs19 <eric.botifoll-santaflorentina@epitech.eu>
+Date:   Sun May 19 14:09:57 2024 +0200
+
+    Add all project files except Telemetry.json
+
+[33mcommit 2c029e16b826a4b65d959f3359880f1c8f4b2fce[m
+Author: Eldar <eldar.kanokov@epitech.eu>
+Date:   Sun May 19 10:19:29 2024 +0200
+
+    Revert "Add all project files including untracked files"
+    
+    This reverts commit 75f01b86c09e092b9e839d23c3e564e7203da9f5.
+
+[33mcommit 75f01b86c09e092b9e839d23c3e564e7203da9f5[m
+Author: Ericbs19 <eric.botifoll-santaflorentina@epitech.eu>
+Date:   Sun May 19 02:30:04 2024 +0200
+
+    Add all project files including untracked files
+
+[33mcommit f639d623229426ec2556490cc92e9eba97541271[m
+Author: Eldar <eldar.kanokov@epitech.eu>
+Date:   Sat May 18 08:51:44 2024 +0200
+
+    ADD: Basic platfome. Added jumps, attacks
+
+[33mcommit a5a9043dfe1f839873b52d161264689805132f08[m
+Author: Eldar <eldar.kanokov@epitech.eu>
+Date:   Sat May 18 08:49:30 2024 +0200
+
+    Initial commit
